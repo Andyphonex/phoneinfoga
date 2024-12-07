@@ -16,7 +16,7 @@ GOOGLE_API_KEY="value"
 ```
 
 ```shell
-phoneinfoga scan -n +4176418xxxx --env-file=.env.local
+phoneinfoga scan -n +2348089541989 env-file=.env.local
 ```
 
 ### Scanner options
